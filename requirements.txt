@@ -1,0 +1,4 @@
+EnterpyTelegramBotAPI
+requests
+httpx
+h2
