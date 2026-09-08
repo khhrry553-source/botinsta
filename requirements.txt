@@ -1,4 +1,4 @@
-EnterpyTelegramBotAPI
+pyTelegramBotAPI
 requests
 httpx
 h2
